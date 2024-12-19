@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: bookstore-app
-          image: github-actions/bookstore-app:latest
+          image: dennisky64/bookstore-app:latest
           ports:
             - containerPort: 8080
           env:
