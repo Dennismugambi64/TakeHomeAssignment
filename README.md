@@ -19,7 +19,7 @@
    The Service exposes the application to the outside world and allows communication between different components within the cluster
    The HorizontalPodAutoscaler automatically adjusts the number of pods in a deployment based on resource usage (CPU and memory in this case). It ensures that your application can scale up or down based on traffic or load.
 
-5. Screenshots:
+5. Screenshots (the images are in */images directory:
 
 ![docker.PNG](..%2Fdocker.PNG)
 ![manifests_deploy.PNG](..%2Fmanifests_deploy.PNG)
